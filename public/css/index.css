@@ -1,0 +1,48 @@
+.nav-bar {
+	height: 50px;
+	line-height: 50px;
+	background-color: #191919;
+	margin-bottom: 0;
+	box-sizing: border-box;
+	font-size: 14px;
+	color: white;
+}
+
+.title-area {
+	float: left;
+	margin: 0;
+	list-style: none;
+	line-height: 50px;
+	font-family: inherit;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.icon {
+	width: 20px;
+	height: 20px;
+	margin-top: 15px;
+	margin-left: 2rem;
+}
+
+.logo-text {
+	color: white;
+	font-size: 20px;
+	line-height: 50px;
+	float: right;
+	margin-left: 1rem;
+	text-transform: uppercase;
+	cursor: auto;
+	letter-spacing: 0.2rem;
+	font-family: "aaux-next",sans-serif;
+	font-style: normal;
+	font-weight: 500;
+}
+
+.nav-bar-section {
+	position: relative;
+	width: auto;
+	box-sizing: border-box;
+	line-height: 50px;
+	-webkit-font-smoothing: antialiased;
+}
