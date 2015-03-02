@@ -18,7 +18,7 @@
 	padding: 0;
 }
 
-.icon {
+.main-icon {
 	width: 30px;
 	height: 30px;
 	padding-top: 10px;
@@ -66,8 +66,7 @@
 	font-weight: 400;
 	font-size: 10px;
 	margin: 0;
-	float: right;
-	/*position: fixed;*/
+	/*float: right;*/
 }
 
 a:link {
@@ -120,8 +119,21 @@ li {
 }
 
 .icons {
-	background-color: salmon;
-	height: 100px;
+	height: 200px;
+	text-align: center;
+	display: -webkit-flex;
+  	display: flex;
+  	-webkit-flex-direction: row
+  	flex-direction: row;
+  	-webkit-align-items: center;
+  	align-items: center;
+  	-webkit-justify-content: center;
+  	justify-content: center;
+}
+
+.icon {
+	height: 75px;
+	width: 75px;
 }
 
 .login {
