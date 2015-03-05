@@ -9,4 +9,8 @@ $(document).ready(function(){
 		$(this).css("padding-bottom", 0)
 		$(this).css("color", "#A5A5A5")
 	});
+
+	var cities = [
+	
+	]
 })

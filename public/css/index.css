@@ -119,6 +119,14 @@ li {
 	margin: 0;
 }
 
+input[type="text"] {
+	width: 400px;
+	margin-top: 2rem;
+	text-transform: capitalize;
+	font-family: "brandon-grotesque",sans-serif;
+	border-color: black;
+}
+
 .icons {
 	height: 200px;
 	text-align: center;
