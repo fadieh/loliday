@@ -52,6 +52,7 @@
 	float: left;
 	position: relative;
 	margin-left: 5rem;
+	width: auto;
 }
 
 .right {
@@ -157,6 +158,10 @@ li {
 	letter-spacing: 0.2rem;
 	text-transform: uppercase;
 	margin: 0;
+}
+
+.lolol {
+	background-color: white;
 }
 
 .icon-wrap {
