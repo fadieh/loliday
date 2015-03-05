@@ -10,7 +10,4 @@ $(document).ready(function(){
 		$(this).css("color", "#A5A5A5")
 	});
 
-	var cities = [
-	
-	]
 })
